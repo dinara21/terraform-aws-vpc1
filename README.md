@@ -1,7 +1,7 @@
 ### Instructions on how to build VPC
 
 
-### Plaese copy paste below code
+### Please copy paste below code
 ```
 
 module "VPC" {
